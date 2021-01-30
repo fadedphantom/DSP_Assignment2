@@ -1,0 +1,34 @@
+{
+  "voters": [
+    {
+      "id": "2",
+      "name": "Michael Apata",
+      "state": "Voted",
+      "age": 20
+    },
+    {
+      "id": "3",
+      "name": "John Sturgest",
+      "state": "Voted",
+      "age": "20"
+    },
+    {
+      "id": "4",
+      "name": "Jane Doe",
+      "state": "Voted",
+      "age": "20"
+    },
+    {
+      "name": "Dave King",
+      "state": "Voted",
+      "age": 21,
+      "id": "47qKXZ2"
+    },
+    {
+      "name": "David",
+      "sate": "Voted",
+      "age": 35,
+      "id": "feRw4pl"
+    }
+  ]
+}
